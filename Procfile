@@ -1,1 +1,1 @@
-web: gunicorn JaisonFoods.wsgi
+web: gunicorn JaisonFood.wsgi
