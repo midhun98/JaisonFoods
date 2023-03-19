@@ -1,0 +1,1 @@
+web: gunicorn JaisonFoods.wsgi
